@@ -21,7 +21,4 @@
 - ESLint (Linting)
 - GitHub Actions (CI)
 
----
 
-## 📁 هيكل المشروع
-~
